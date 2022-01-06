@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, I am Shae Li.
+
 <!--
 **wwo233/wwo233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
